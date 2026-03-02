@@ -3,3 +3,4 @@ openai==1.54.5
 python-dotenv==1.0.0
 aiohttp==3.8.6
 httpx==0.27.2
+typing-extensions==4.11.0
